@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/addExercise.c
+header.h
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/header.h
+
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/getFile.c
+header.h
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/header.h
+
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/header.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/logOut.c
+header.h
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/header.h
+
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/main.c
+header.h
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/header.h
+
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/showLogs.c
+header.h
+C:/Users/Kalin/CLionProjects/KursovaPIK2020/header.h
+
